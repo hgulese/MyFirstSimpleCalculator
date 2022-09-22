@@ -1,1 +1,1 @@
-My first and simple android calculator.
+My first and simple android calculator app.
